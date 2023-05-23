@@ -15,7 +15,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="calculatorLogo" translatesAutoresizingMaskIntoConstraints="NO" id="r5A-Mg-sfn">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="calculator_logo" translatesAutoresizingMaskIntoConstraints="NO" id="r5A-Mg-sfn">
                                 <rect key="frame" x="96.666666666666686" y="326" width="200" height="200"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="r5A-Mg-sfn" secondAttribute="height" multiplier="1:1" id="02p-FP-kNN"/>
@@ -37,6 +37,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="calculatorLogo" width="1024" height="1024"/>
+        <image name="calculator_logo" width="1024" height="1024"/>
     </resources>
 </document>
